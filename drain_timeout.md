@@ -1,18 +1,22 @@
 
 
 # Tempo excedido na fase de DRENAGEM.
+
 ## Risco: ALTO
 
-### Possíveis causas:
+### Possíveis causas
+
 * Problema na bomba de drenagem.
   - queimada?
   - desconectada da mangueira?
-  - desconectada da tomada.
+  - desconectada da tomada?
   
 * Problema no sensor de nível vazio.
   - está preso pela mangueira ou outro objeto?
   - mau contato no fio que leva o sinal? 
   - pifou? (improvável)
+
+### Descrição 
 
 Se o problema for no sensor, o sistema está de fato vazio e a bomba de drenagem continua ligada. Elas queimarão em breve. :)
 
